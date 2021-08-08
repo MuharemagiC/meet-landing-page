@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MuharemagiC/stats-preview-card-component)
+- Solution URL: [Add solution URL here](https://github.com/MuharemagiC/meet-landing-page)
 - Live Site URL: [Add live site URL here](https://muharemagic.github.io/stats-preview-card-component/)
 
 ## My process
