@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/MuharemagiC/meet-landing-page)
-- Live Site URL: [Add live site URL here](https://muharemagic.github.io/stats-preview-card-component/)
+- Live Site URL: [Add live site URL here](https://muharemagic.github.io/meet-landing-page/?fbclid=IwAR1v9q8R0NVAAyQso7ORMZLlYU2kHHi3hvdZKP4xPHCLnWfiOQjv_hr1wDQ)
 
 ## My process
 
